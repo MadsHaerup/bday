@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bday/static/css/main.6033eb13.chunk.css",
+    "main.js": "/bday/static/js/main.34889276.chunk.js",
+    "main.js.map": "/bday/static/js/main.34889276.chunk.js.map",
+    "runtime-main.js": "/bday/static/js/runtime-main.6dcdb7e4.js",
+    "runtime-main.js.map": "/bday/static/js/runtime-main.6dcdb7e4.js.map",
+    "static/js/2.5dae7c86.chunk.js": "/bday/static/js/2.5dae7c86.chunk.js",
+    "static/js/2.5dae7c86.chunk.js.map": "/bday/static/js/2.5dae7c86.chunk.js.map",
+    "index.html": "/bday/index.html",
+    "static/css/main.6033eb13.chunk.css.map": "/bday/static/css/main.6033eb13.chunk.css.map",
+    "static/js/2.5dae7c86.chunk.js.LICENSE.txt": "/bday/static/js/2.5dae7c86.chunk.js.LICENSE.txt",
+    "static/media/bboy.918ed7f6.svg": "/bday/static/media/bboy.918ed7f6.svg",
+    "static/media/creative.07e4bf1e.svg": "/bday/static/media/creative.07e4bf1e.svg",
+    "static/media/dinner.9e6bfe1f.svg": "/bday/static/media/dinner.9e6bfe1f.svg",
+    "static/media/horse.2a4e22d1.jpg": "/bday/static/media/horse.2a4e22d1.jpg",
+    "static/media/moneytree.ec07ca14.svg": "/bday/static/media/moneytree.ec07ca14.svg",
+    "static/media/present.619920e5.svg": "/bday/static/media/present.619920e5.svg",
+    "static/media/present2.970006ce.svg": "/bday/static/media/present2.970006ce.svg",
+    "static/media/scarpetta.63c04e75.jpg": "/bday/static/media/scarpetta.63c04e75.jpg",
+    "static/media/space.fbc0a0ef.jpg": "/bday/static/media/space.fbc0a0ef.jpg",
+    "static/media/tivoli.0d61d874.jpg": "/bday/static/media/tivoli.0d61d874.jpg",
+    "static/media/wullf.9e1cd0b2.jpg": "/bday/static/media/wullf.9e1cd0b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dcdb7e4.js",
+    "static/js/2.5dae7c86.chunk.js",
+    "static/css/main.6033eb13.chunk.css",
+    "static/js/main.34889276.chunk.js"
+  ]
+}

@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import wullf from './wullf.jpg';
 import creative from './components/creative.svg';
 import space from './space.jpg';
+import space2 from './space2.jpg';
 import present from './present.svg';
 import present2 from './present2.svg';
 import tivoli from './tivoli.jpg';
@@ -16,9 +17,9 @@ function App() {
   return (
   <>
   <Home/>
-  <Scratch  title="Where are we going, to eat Brunch?" text="To Wulff & Konstali!" img={wullf} />
+  <Scratch  title="Where are we going, to eat Brunch?" text="At Wulff & Konstali!" img={wullf} />
   <Whitespace img={creative} title="I guess we should also do something creative?" />
-  <Scratch  title="Where should we go to be creative?" text="Creative Space" img={space} />
+  <Scratch  title="Where should we go to be creative?" text="Creative Space" img={space2} />
   <Whitespace img={present} title="Don't you think it's time for a present?" />
   <Scratch img={tivoli} title="Ready for a present?" text="Tivoli Silver Card"/>
   <Whitespace img={present2} title="Okay OKay OKay... Not so impressive? I have another one for you 💖" />

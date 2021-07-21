@@ -3,7 +3,6 @@ import Whitespace from "./components/Whitespace";
 import Home from "./pages/Home";
 import wullf from './wullf.jpg';
 import creative from './components/creative.svg';
-import space from './space.jpg';
 import space2 from './space2.jpg';
 import present from './present.svg';
 import present2 from './present2.svg';

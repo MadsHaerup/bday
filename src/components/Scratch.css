@@ -1,4 +1,5 @@
 .container{
+  width: 100%;
   position: absolute;
   display: grid;
   scroll-snap-align: start;
@@ -44,7 +45,6 @@ section .content img{
 }
 
 canvas {
-  /* position: absolute; */
   width:100%;
   height:100%;
   z-index: 1;
